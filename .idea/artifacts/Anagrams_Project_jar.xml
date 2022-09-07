@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Anagrams_Project:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Anagrams_Project_jar</output-path>
+    <root id="archive" name="Anagrams_Project.jar">
+      <element id="module-output" name="Anagrams_Project" />
+    </root>
+  </artifact>
+</component>
